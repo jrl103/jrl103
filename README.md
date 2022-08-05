@@ -25,3 +25,6 @@
   <br/>
   <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrl103&show_icons=true&theme=tokyonight)
+<br/>
+<br/>
+[✨Velog 항해일지✨](https://velog.io/@jrl103/624-1%EC%9D%BC%EC%B0%A8)
