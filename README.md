@@ -18,9 +18,9 @@
    <img src="https://img.shields.io/badge/Tail Wind-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 <br/>
   <img src="https://img.shields.io/badge/recoil-f26b00?style=for-the-badge&logo=">
-  <img src="https://img.shields.io/badge/axios-2C5BB4?style=for-the-badge&logo=axios&logoColor=white">
   <img src="https://img.shields.io/badge/Redux Toolkit-CA4245?style=for-the-badge&logo=React Router Dom&logoColor=white">
- <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">   
+ <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
+ <img src="https://img.shields.io/badge/axios-2C5BB4?style=for-the-badge&logo=axios&logoColor=white">
 <br/>
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
