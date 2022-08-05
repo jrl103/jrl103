@@ -1,9 +1,13 @@
+<h3 align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=300&section=header&text=Songyi%20Land&fontSize=90)
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+</h3>
+
+<br>
+
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -21,10 +25,16 @@
  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/CloudFront-D05C4B?style=for-the-badge&logo=Amazon AWS&logoColor=white">
  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-  <br/>
-  <br/>
-  <br/>
+
+ </p>
+  <h3 align="center">✨ My GitGub State ✨</h3>
+  <div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrl103&show_icons=true&theme=tokyonight)
-<br/>
-<br/>
-[✨Velog 항해일지✨](https://velog.io/@jrl103/624-1%EC%9D%BC%EC%B0%A8)
+
+</div>
+<h3 align="center">🚀 Follow Me 🚀</h3>
+<p align="center">
+<a href="https://velog.io/@jrl103/624-1%EC%9D%BC%EC%B0%A8"><img src="https://img.shields.io/badge/Tech%20Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://yeonyeon.tistory.com"/>
+</a>
+</p>
